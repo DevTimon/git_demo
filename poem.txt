@@ -1,2 +1,4 @@
 Learn Git with EPAM
 It's not so scum
+Don't take it close
+It's supposed to be joke
