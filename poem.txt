@@ -10,3 +10,6 @@ Now work with branch
 It make essential sense
 One more branch commit
 Just to check work of it
+
+Keep going to merge
+It's way to learn
