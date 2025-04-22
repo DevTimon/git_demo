@@ -21,3 +21,6 @@ What did you recommended?
 
 One more little couplet
 About how implemented tags
+
+There is way to make stash
+it's like temporary save
