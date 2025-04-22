@@ -13,3 +13,6 @@ Just to check work of it
 
 Keep going to merge
 It's way to learn
+
+Make some conflicts
+To understand git
